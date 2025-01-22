@@ -1,4 +1,4 @@
-# altsch-assignment2
+# altsch-html-assignment
  - A collection of assignment-1 and assignment-2
  - This assignment contains 4 HTML files and 1 asset folder.
  - the files include `index.html`, `form.html`, `media.html` and `table.html`.
