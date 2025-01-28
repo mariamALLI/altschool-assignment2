@@ -9,7 +9,7 @@
 - Semantic HTML5 markup
 
 ### What I learnt
-- learned the proper use of semantics and how helful they're to assistive technology.
+- learned the proper use of semantics and how heplful they're to assistive technology.
 - learned how to use the `alt` attribute to describe images.
 - learnt how to create table using the <table> elements
 - learned how to use the `thead`, `tbody`, and `tfoot` elements to define the structure of a table
