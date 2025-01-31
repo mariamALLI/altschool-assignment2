@@ -3,7 +3,7 @@
 ==========================
 Assignment: HTML Basics
 
-**Maraiam Alli** here, pls find the files to the respective `html` assignment, with a little bit of `CSS` for `fonts` sake.
+**Maraiam Alli** here, pls find the files to the respective `html` assignment, with a little bit of internal `CSS` for `fonts` and `navigation` sake.
 
 - A collection of assignment-1 and assignment-2
 - This assignment contains 4 HTML files and 1 asset folder.
